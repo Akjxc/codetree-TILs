@@ -20,6 +20,6 @@ int main() {
         if(a > b){
             return 0;
         }
-    } while (a < b);
+    } while (a <= b);
     return 0;
 }
